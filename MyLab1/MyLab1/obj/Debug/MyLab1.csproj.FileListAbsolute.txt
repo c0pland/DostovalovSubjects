@@ -1,0 +1,33 @@
+D:\AVT812\lab1\MyLab1\MyLab1\bin\Debug\MyLab1.exe.config
+D:\AVT812\lab1\MyLab1\MyLab1\bin\Debug\MyLab1.exe
+D:\AVT812\lab1\MyLab1\MyLab1\bin\Debug\MyLab1.pdb
+D:\AVT812\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.csprojAssemblyReference.cache
+D:\AVT812\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.Form1.resources
+D:\AVT812\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.Properties.Resources.resources
+D:\AVT812\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.csproj.GenerateResource.cache
+D:\AVT812\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.exe
+D:\AVT812\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.pdb
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\bin\Debug\MyLab1.exe.config
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\bin\Debug\MyLab1.exe
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\bin\Debug\MyLab1.pdb
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.csprojAssemblyReference.cache
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.Form1.resources
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.Properties.Resources.resources
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.csproj.GenerateResource.cache
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.csproj.CoreCompileInputs.cache
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.exe
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.pdb
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.Help.resources
+D:\VUZ\6 sem\tyiafk\lab1\MyLab1\MyLab1\obj\Debug\MyLab1.AboutTheProgramm.resources
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.exe
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.pdb
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\bin\Debug\MyLab1.exe.config
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\bin\Debug\MyLab1.exe
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\bin\Debug\MyLab1.pdb
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.AboutTheProgramm.resources
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.Help.resources
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\Documents\b4\MyLab1\MyLab1\obj\Debug\MyLab1.csprojAssemblyReference.cache
